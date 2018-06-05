@@ -1,4 +1,4 @@
-class posts
+class Posts
 
 attr_accessor :name, :author
 def initialize(name, author)
